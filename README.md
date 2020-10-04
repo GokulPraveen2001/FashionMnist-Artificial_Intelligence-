@@ -1,6 +1,6 @@
 # Fashion_Mnist:Artificial_Intelligence
 
-## In this project I have used the Fashion Mnist dataset to predict the diferrent types of clothing using CNN and DNN.
+## In this project I have used the Fashion Mnist dataset to predict the diferrent types of clothing using CNN and DNN with 7 different layers.
 
 ## I have also implemented various callbacks and has tried predicting using a functional and sequential model.
 
