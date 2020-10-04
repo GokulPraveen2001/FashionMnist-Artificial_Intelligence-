@@ -2,7 +2,7 @@
 
 ## In this project I have used the fashion mnist dataset to predict the diferrent types of clothing using CNN and DNN.
 
-## I have also implemented various callbacks and has tried predictingusing a functional and sequential model.
+## I have also implemented various callbacks and has tried predicting using a functional and sequential model.
 
 ## I also got an accuracy of 91% on the test dataset on evaluation.
 
