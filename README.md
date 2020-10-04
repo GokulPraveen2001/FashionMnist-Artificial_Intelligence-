@@ -4,8 +4,8 @@
 
 ## I have also implemented various callbacks and has tried predictingusing a functional and sequential model.
 
-##I also got an accuracy of 91% on the test dataset on evaluation.
+## I also got an accuracy of 91% on the test dataset on evaluation.
 
-##Moreover,I have also visualized the convolution layer's filters and filtermaps using subplots to develop a better understanding of how the CNN works.
+## Moreover,I have also visualized the convolution layer's filters and filtermaps using subplots to develop a better understanding of how the CNN works.
 
-##I have also visualized the layers of the model along with its inputs and outputs in the form of a flowchart.
+## I have also visualized the layers of the model along with its inputs and outputs in the form of a flowchart.
