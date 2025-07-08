@@ -1,3 +1,5 @@
+NOTE : I have forked this repo from my earlier account(Goku-tech) as I lost my credentials in that account
+
 # Fashion_Mnist:Artificial_Intelligence
 
 ## In this project I have used the Fashion Mnist Dataset to predict the different types of clothing using CNN and DNN with 7 different layers.
